@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/jonaslu/ain/releases/download/v1.0.0/ain_1.0.0_windows_i386.zip",
+            "bin": [
+                "ain_1.0.0_windows_i386/ain.exe"
+            ],
+            "hash": "37f0ce03bd65560fe25c160f30fb2c75673c6362f3251fcd03236ecb089cb82d"
+        },
+        "64bit": {
+            "url": "https://github.com/jonaslu/ain/releases/download/v1.0.0/ain_1.0.0_windows_x86_64.zip",
+            "bin": [
+                "ain_1.0.0_windows_x86_64/ain.exe"
+            ],
+            "hash": "a20740e74b467e1da171c88faf8b8157a6126f286e0063886633288cfb57e2e9"
+        }
+    },
+    "homepage": "https://github.com/jonaslu/ain",
+    "license": "MIT",
+    "description": "Ain is a terminal API client. It's an alternative to postman, paw or insomnia."
+}

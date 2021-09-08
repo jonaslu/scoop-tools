@@ -6,14 +6,14 @@
             "bin": [
                 "ain_1.1.0_windows_i386/ain.exe"
             ],
-            "hash": "0bce0252488d1a2873f8e13e838b073fe140dfc474efcf737b50c48ecbfdcdd5"
+            "hash": "d9a67b3e6bfd0166cda37cb4e6d8933b37cdd3d0597edff4aed9811601dcbab7"
         },
         "64bit": {
             "url": "https://github.com/jonaslu/ain/releases/download/v1.1.0/ain_1.1.0_windows_x86_64.zip",
             "bin": [
                 "ain_1.1.0_windows_x86_64/ain.exe"
             ],
-            "hash": "4ce4650988d3113859c282228e1449df8a7f65490123508136194a6a1fccc734"
+            "hash": "60de621cdb87164e7837d31ebf2626e8f97a5cb082d9a73b538e0840cb79d697"
         }
     },
     "homepage": "https://github.com/jonaslu/ain",

@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jonaslu/ain/releases/download/v1.2.1/ain_1.2.1_windows_i386.zip",
+            "url": "https://github.com/jonaslu/ain/releases/download/v1.2.2/ain_1.2.2_windows_i386.zip",
             "bin": [
-                "ain_1.2.1_windows_i386/ain.exe"
+                "ain_1.2.2_windows_i386/ain.exe"
             ],
-            "hash": "9fd0c31399ff70285d4f475e544fcd90414c552cc8b126c0806d1f88f3fdb12b"
+            "hash": "9e4e7a40482b4f0b5e4a36a03f8b360dcfa698898bc412472fff72e7d4003cbf"
         },
         "64bit": {
-            "url": "https://github.com/jonaslu/ain/releases/download/v1.2.1/ain_1.2.1_windows_x86_64.zip",
+            "url": "https://github.com/jonaslu/ain/releases/download/v1.2.2/ain_1.2.2_windows_x86_64.zip",
             "bin": [
-                "ain_1.2.1_windows_x86_64/ain.exe"
+                "ain_1.2.2_windows_x86_64/ain.exe"
             ],
-            "hash": "e7707fa16af91aa4ba6d7e10214246eb7d4ab037c25d68719f5dbf21a913dd2f"
+            "hash": "7e04549ad0853cb8aed8a25f9a0547151490a58c10b6b1a94d3fe698ae22b488"
         }
     },
     "homepage": "https://github.com/jonaslu/ain",

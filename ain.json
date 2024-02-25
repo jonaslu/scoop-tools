@@ -1,19 +1,26 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jonaslu/ain/releases/download/v1.3.0/ain_1.3.0_windows_i386.zip",
+            "url": "https://github.com/jonaslu/ain/releases/download/v1.4.0/ain_1.4.0_windows_i386.zip",
             "bin": [
-                "ain_1.3.0_windows_i386/ain.exe"
+                "ain_1.4.0_windows_i386/ain.exe"
             ],
-            "hash": "fb6ea3ba7be2489c9777c45891d7540e65297ccea24d014e2c70a8f7b4845f55"
+            "hash": "2eadba088a080ae963defdf34ac81eb3811f93c5cefebe6b629b24e498cffea6"
         },
         "64bit": {
-            "url": "https://github.com/jonaslu/ain/releases/download/v1.3.0/ain_1.3.0_windows_x86_64.zip",
+            "url": "https://github.com/jonaslu/ain/releases/download/v1.4.0/ain_1.4.0_windows_x86_64.zip",
             "bin": [
-                "ain_1.3.0_windows_x86_64/ain.exe"
+                "ain_1.4.0_windows_x86_64/ain.exe"
             ],
-            "hash": "e58ca563440dba649d9ccc5e19d513f204c0427393ecdb7efdca6918245f9e7f"
+            "hash": "ba96c53dce19ae065f58211d4d909f02e041b16f8211432e2428a40971f5df52"
+        },
+        "arm64": {
+            "url": "https://github.com/jonaslu/ain/releases/download/v1.4.0/ain_1.4.0_windows_arm64.zip",
+            "bin": [
+                "ain_1.4.0_windows_arm64/ain.exe"
+            ],
+            "hash": "a0b3436d12347f067ce7f03169c3d17b00dd2e7c367cc7255b85864518320343"
         }
     },
     "homepage": "https://github.com/jonaslu/ain",
